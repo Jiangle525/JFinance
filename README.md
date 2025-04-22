@@ -23,7 +23,6 @@
 │   ├── evaluation
 │   ├── strategy
 │   └── visualizer
-└── test.ipynb
 ```
 
 ## 安装方式
