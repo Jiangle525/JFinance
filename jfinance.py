@@ -1,3 +1,5 @@
+import config.logger
+
 from libs.data.fetcher import FetcherFactory
 
 if __name__ == '__main__':
