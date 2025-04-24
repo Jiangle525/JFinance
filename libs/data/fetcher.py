@@ -1,4 +1,4 @@
-from .fetcher_tushare import TushareFetcher
+from libs.data.fetchers.fetcher_tushare import TushareFetcher
 from .base_fetcher import BaseFetcher
 
 class FetcherFactory:

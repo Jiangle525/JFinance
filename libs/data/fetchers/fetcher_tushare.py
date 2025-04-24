@@ -1,7 +1,7 @@
 import logging
 import os
 
-from .base_fetcher import BaseFetcher
+from libs.data.base_fetcher import BaseFetcher
 import pandas as pd
 import tushare as ts
 from tushare.stock import cons as ct
